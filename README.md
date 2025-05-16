@@ -31,10 +31,11 @@
    ```bash
    git clone https://github.com/lnavasardyan/html-parser.git
    cd html-parser
+   ```
 
 ### ▶️ Запуск
 
- python html-parser.py
+ ```python html-parser.py```
 
 После выполнения будет создан файл products.xlsx с таблицей товаров.
 
